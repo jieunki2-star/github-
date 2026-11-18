@@ -1,0 +1,4 @@
+output/
+research/pdfs/
+__pycache__/
+.DS_Store
